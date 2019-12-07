@@ -5,3 +5,9 @@ If NTP server receives 'monlist' command, it normally replies back to the source
 Characteristics
 1. UDP tacket, generating UDP packet is so simple and the target doesn't need to communicate with target. This is the same as other DDoS
 2. Attacker can generate large volume of traffic by using legit NTP server.
+
+
+
+-Prerequisite 
+Npcap 0.992
+Wireshark
