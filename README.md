@@ -9,5 +9,4 @@ Characteristics
 
 
 -Prerequisite: 
-Npcap 0.992
-Wireshark
+Npcap 0.992, Wireshark
