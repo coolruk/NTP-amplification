@@ -8,5 +8,6 @@ Characteristics
 
 
 
--Prerequisite: 
-Npcap 0.992, Wireshark
+-Prerequisite
+1. Wireshark
+2. Npcap 0.992
